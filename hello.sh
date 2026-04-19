@@ -1,6 +1,5 @@
 #!/bin/bash
-clear;
-echo"hello world";
-exit;
-
-
+# Olá Mundo — primeiro script shell
+clear
+echo "Olá, Mundo!"
+echo "Bem-vindo ao Shell Script!"
